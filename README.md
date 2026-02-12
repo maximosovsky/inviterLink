@@ -12,3 +12,5 @@ Meeting, 01/26/2026, 6:00 PM, https://us02web.zoom.us/j/8204568026
 — Automatically calculate the time for Riga, Rome, LA, etc .
 — Create a hidden link to add to your Calendar.
 — Remind you 45 minutes before the meeting starts.
+
+> ⚠️ **Этот репозиторий устарел.** Актуальная версия: [teleinviter](https://github.com/maximosovsky/teleinviter)
